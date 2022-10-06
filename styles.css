@@ -1,0 +1,13 @@
+body{
+  background-color: #808080;
+  color: #FFFFFF;
+}
+main{
+  display: block;
+  margin: auto;
+}
+.center {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width:130px;
