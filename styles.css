@@ -1,6 +1,22 @@
+
+html{ scroll-behavior: smooth;
+}
 body{
+  font-size: 16px;
+  font-family: arial, helvetica, serif, sans-serif;
+  line-height: 1.2;
   background-color: #808080;
   color: #FFFFFF;
+}
+li{
+  line-height: 1.2;
+}
+a{
+  color:black;
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
 }
 main{
   display: block;
@@ -11,3 +27,4 @@ main{
   margin-right: auto;
   margin-left: auto;
   width:130px;
+}
